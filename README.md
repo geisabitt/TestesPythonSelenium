@@ -17,6 +17,6 @@
 
 ## Para que foi desenvolvido
 
-- esse teste vou desenvolcido para as aplicações que estão nos repositórios
+- esse teste vou desenvolvido para as aplicações que estão nos repositórios
 - Vue https://github.com/geisabitt/crud-vue
 - React https://github.com/geisabitt/crud-react
